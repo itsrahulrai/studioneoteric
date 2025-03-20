@@ -76,6 +76,10 @@ $projects = [
             "./images/Project1-img-2.webp",
             "./images/Project1-img-3.webp",
             "./images/Project1-img-4.webp",
+            "./images/Project1-img-5.webp",
+            "./images/Project1-img-6.webp", 
+            "./images/Project1-img-7.webp",
+            "./images/Project1-img-8.webp",
         ]
     ],
     
@@ -89,6 +93,8 @@ $projects = [
             "./images/Project2-img-2.webp",
             "./images/Project2-img-3.webp",
             "./images/Project2-img-4.webp",
+            "./images/Project2-img-5.webp",
+            "./images/Project2-img-6.webp",
         ]
     ],
     [
@@ -100,6 +106,7 @@ $projects = [
             "./images/Project3-img-1.webp",
             "./images/Project3-img-2.webp",
             "./images/Project3-img-3.webp",
+            "./images/Project3-img-4.webp",
            
         ]
     ]
